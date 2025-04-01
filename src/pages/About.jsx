@@ -24,7 +24,7 @@ const About = () => {
         <p className="text-lg text-gray-600 leading-relaxed">
           We started with a small team of passionate individuals aiming to
           create meaningful solutions that solve real-world problems. Over the
-          years, we &apot;ve grown into a leading provider in the industry,
+          years, we&apos; ve grown into a leading provider in the industry,
           helping businesses grow and succeed.
         </p>
       </section>
