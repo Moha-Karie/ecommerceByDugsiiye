@@ -10,7 +10,7 @@ const Footer = () => {
           Thanks for you visiting this website
         </p>
         <p className="text-gray-800 font-semibold ">
-          Dugsiiye &copy; {currentYear}
+          Kariye &copy; {currentYear}
         </p>
       </div>
     </div>
